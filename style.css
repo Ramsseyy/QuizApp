@@ -1,0 +1,18 @@
+html{
+    background-color: #B7B7A4;
+}
+
+
+h1{
+    text-align: center;
+}
+
+.quest{
+    background-color: #FFE8D6;
+    margin-top: 4vh;
+    box-shadow: 0 8px 16px 10px rgba(0,0,0,0.2), 0 6px 20px 10px rgba(0,0,0,0.19);
+    font-size: 1.2em;
+    padding: .8em;
+}
+
+
